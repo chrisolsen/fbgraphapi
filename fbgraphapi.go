@@ -1,4 +1,4 @@
-package fbauth
+package fbgraphapi
 
 import (
 	"encoding/json"
